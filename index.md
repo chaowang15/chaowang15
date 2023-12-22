@@ -11,7 +11,6 @@ My current research interests are mainly in computer vision and graphics area, s
 ## Work Experience
 
 - [03/2020 - Present] **Bytedance**, San Jose, CA, USA --- Research Engineer
-
 - [10/2018 - 02/2020] **Matterport**, Sunnyvale, CA, USA --- Computer Vision Engineer
 
 ## Education
