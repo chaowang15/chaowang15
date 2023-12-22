@@ -8,5 +8,5 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li>TMM, GMOD, CASA, CAD, CAGD, TVCJ, CAVW, GM, WEVJ, Measurement Science and Technology (MST), Remote Sensing, Sensing, Drones, Electronics, Mathematics, Biomimetics, Forests, Symmetry</li>
+  <li>TMM, GMOD, CASA, CAD, CAGD, TVCJ, CAVW, GM, WEVJ, Measurement Science and Technology (MST), Remote Sensing, Sensors, Drones, Electronics, Mathematics, Biomimetics, Forests, Symmetry</li>
 </ul>
