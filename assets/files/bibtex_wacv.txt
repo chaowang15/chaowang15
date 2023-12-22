@@ -1,0 +1,6 @@
+@article{zhangdr2,
+  title={DR2: Disentangled Recurrent Representation Learning for Data-efficient Speech Video Synthesis--Supplementary Material--},
+  author={Zhang, Chenxu and Wang, Chao and Zhao, Yifan and Cheng, Shuo and Luo, Linjie and Guo, Xiaohu},
+  journal={WACV},
+  year={2024}
+}

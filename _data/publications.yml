@@ -1,0 +1,41 @@
+main:
+
+  - title: "DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation"
+    authors: Chenxu Zhang*, <strong>Chao Wang*</strong>, Jianfeng Zhang, Hongyi Xu, Guoxian Song, You Xie, Linjie Luo, Yapeng Tian, Xiaohu Guo, Jiashi Feng (*Equal Contribution)
+    conference:  Arxiv Preprint, 2023
+    page: https://magic-research.github.io/dream-talk/
+    pdf: https://arxiv.org/abs/2312.13578
+    code: https://github.com/magic-research/dream-talk
+    bibtex: https://arxiv.org/abs/2312.13578
+    image: ./assets/img/dreamtalk.gif
+    notes: 
+
+  - title: "DR2: Disentangled Recurrent Representation Learning for Data-efficient Speech Video Synthesis"
+    authors: Chenxu Zhang, <strong>Chao Wang</strong>, Yifan Zhao, Shuo Cheng, Linjie Luo, Xiaohu Guo
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024
+    page: https://personal.utdallas.edu/~xguo/WACV2024.pdf
+    pdf: https://personal.utdallas.edu/~xguo/WACV2024.pdf
+    bibtex: ./assets/files/bibtex_wacv.txt
+    supplement: https://personal.utdallas.edu/~xguo/WACV2024_Supplement.pdf
+    video: https://www.youtube.com/watch?v=LDdDm86Ve_4
+    image: ./assets/img/wacv1.gif
+    notes: 
+
+  - title: "Using Augmented Face Images to Improve Facial Recognition Tasks"
+    authors: Shuo Cheng, Guoxian Song, Wan-Chun Ma, <strong>Chao Wang</strong>, Linjie Luo
+    conference: "AI-Generated Characters: Putting Deepfakes to Good Use (CHI Workshop), 2022"
+    page: https://arxiv.org/abs/2205.06873
+    pdf: https://arxiv.org/abs/2205.06873
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WebXkPpfGpIJ:scholar.google.com/&output=citation&scisdr=ClGobCX7EO7Xuy9a7M8:AFWwaeYAAAAAZYVc9M91vPelDuHy0vZnAQhIbag&scisig=AFWwaeYAAAAAZYVc9GxQzOfQOxRObCFQ1dtbcO4&scisf=4&ct=citation&cd=-1&hl=en&authuser=1
+    image: ./assets/img/chi2022_profile.png
+    notes: 
+
+  - title: "Study of detecting behavioral signatures within DeepFake videos"
+    authors: Qiaomu Miao, Sinhwa Kang, Stacy Marsella, Steve DiPaola, <strong>Chao Wang</strong>, Ari Shapiro
+    conference:  Arxiv Preprint, 2022
+    page: https://arxiv.org/abs/2208.03561
+    pdf: https://arxiv.org/abs/2208.03561
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MiOGiEso2tcJ:scholar.google.com/&output=citation&scisdr=ClGobCX7EO7Xuy9Znro:AFWwaeYAAAAAZYVfhrp7qU-HfAZpQCFP4QMEtIs&scisig=AFWwaeYAAAAAZYVfhtIlZ14N8IWI7z_SK4A8YT4&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
+    image: ./assets/img/arxiv2022_procedure.png
+    notes: 
