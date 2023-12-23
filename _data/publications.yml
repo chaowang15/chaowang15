@@ -9,7 +9,7 @@ main:
     project: https://magic-research.github.io/dream-talk/
     pdf: https://arxiv.org/abs/2312.13578
     code: https://github.com/magic-research/dream-talk
-    bibtex: https://arxiv.org/abs/2312.13578
+    bibtex: ./assets/files/bibtex_dreamtalk.txt
     image: ./assets/img/dreamtalk.gif
     notes: 
 
@@ -32,7 +32,7 @@ main:
     page: https://arxiv.org/abs/2205.06873
     project: https://www.media.mit.edu/events/chi-2022-deepfakes/
     pdf: https://arxiv.org/abs/2205.06873
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WebXkPpfGpIJ:scholar.google.com/&output=citation&scisdr=ClGobCX7EO7Xuy9a7M8:AFWwaeYAAAAAZYVc9M91vPelDuHy0vZnAQhIbag&scisig=AFWwaeYAAAAAZYVc9GxQzOfQOxRObCFQ1dtbcO4&scisf=4&ct=citation&cd=-1&hl=en&authuser=1
+    bibtex: ./assets/files/bibtex_arxiv2022_deepfake.txt
     image: ./assets/img/chi2022_profile.png
     notes: 
 
@@ -42,7 +42,7 @@ main:
     conference:  Arxiv Preprint, 2022
     page: https://arxiv.org/abs/2208.03561
     pdf: https://arxiv.org/abs/2208.03561
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MiOGiEso2tcJ:scholar.google.com/&output=citation&scisdr=ClGobCX7EO7Xuy9Znro:AFWwaeYAAAAAZYVfhrp7qU-HfAZpQCFP4QMEtIs&scisig=AFWwaeYAAAAAZYVfhtIlZ14N8IWI7z_SK4A8YT4&scisf=4&ct=citation&cd=-1&hl=en&authuser=1&scfhb=1
+    bibtex: ./assets/files/bibtex_arxiv2022_behavior.txt
     image: ./assets/img/arxiv2022_procedure.png
     notes: 
 
@@ -54,7 +54,7 @@ main:
     project: https://sumochallenge.org/2019-sumo-workshop.html
     code: https://github.com/chaowang15/plane-opt-rgbd
     pdf: https://openaccess.thecvf.com/content_CVPRW_2019/html/SUMO/Wang_Efficient_Plane-Based_Optimization_of_Geometry_and_Texture_for_Indoor_RGB-D_CVPRW_2019_paper.html
-    bibtex: https://openaccess.thecvf.com/content_CVPRW_2019/html/SUMO/Wang_Efficient_Plane-Based_Optimization_of_Geometry_and_Texture_for_Indoor_RGB-D_CVPRW_2019_paper.html
+    bibtex: ./assets/files/bibtex_cvprw2019.txt
     image: ./assets/img/CVPRW.gif
     slides: https://sumochallenge.org/data/2019/Wang%20-%20Efficient%20Plane-Based%20Optimization%20of%20Geometry%20and%20Texture%20for%20Indoor%20RGB-D%20Reconstruction.pdf
     notes: Oral
