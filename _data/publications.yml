@@ -26,7 +26,7 @@ main:
     notes: 
 
   - title: "Using Augmented Face Images to Improve Facial Recognition Tasks"
-    authors: Shuo Cheng, Guoxian Song, Wan-Chun Ma, <strong>Chao Wang</strong>, Linjie Luo
+    authors: Shuo Cheng, Guoxian Song, Wan-Chun Ma, <ins><strong>Chao Wang</strong></ins>, Linjie Luo
     conference_short: 
     conference: "AI-Generated Characters: Putting Deepfakes to Good Use <strong>(CHI Workshop)</strong>, 2022"
     page: https://arxiv.org/abs/2205.06873
@@ -37,7 +37,7 @@ main:
     notes: 
 
   - title: "Study of detecting behavioral signatures within DeepFake videos"
-    authors: Qiaomu Miao, Sinhwa Kang, Stacy Marsella, Steve DiPaola, <strong>Chao Wang</strong>, Ari Shapiro
+    authors: Qiaomu Miao, Sinhwa Kang, Stacy Marsella, Steve DiPaola, <ins><strong>Chao Wang</strong></ins>, Ari Shapiro
     conference_short: 
     conference:  Arxiv Preprint, 2022
     page: https://arxiv.org/abs/2208.03561
@@ -47,7 +47,7 @@ main:
     notes: 
 
   - title: "Efficient Plane-Based Optimization of Geometry and Texture for Indoor RGB-D Reconstruction"
-    authors: <strong>Chao Wang</strong>, Xiaohu Guo
+    authors: <ins><strong>Chao Wang</strong></ins>, Xiaohu Guo
     conference_short: 
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Workshops, 2019
     page: https://openaccess.thecvf.com/content_CVPRW_2019/html/SUMO/Wang_Efficient_Plane-Based_Optimization_of_Geometry_and_Texture_for_Indoor_RGB-D_CVPRW_2019_paper.html
@@ -60,7 +60,7 @@ main:
     notes: Oral
 
   - title: "Plane-based optimization of geometry and texture for RGB-D reconstruction of indoor scenes"
-    authors: <strong>Chao Wang</strong>, Xiaohu Guo
+    authors: <ins><strong>Chao Wang</strong></ins>, Xiaohu Guo
     conference_short: 
     conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2018
     page: https://arxiv.org/pdf/1905.09829.pdf
@@ -72,7 +72,7 @@ main:
     notes: Oral
 
   - title: "Feature-based RGB-D camera pose optimization for real-time 3D reconstruction"
-    authors: <strong>Chao Wang</strong>, Xiaohu Guo
+    authors: <ins><strong>Chao Wang</strong></ins>, Xiaohu Guo
     conference_short: 
     conference: Computational Visual Media <strong>(CVM)</strong>, 2017
     page: https://link.springer.com/article/10.1007/s41095-016-0072-2
@@ -83,7 +83,7 @@ main:
     notes: Oral
 
   - title: "Spectral animation compression"
-    authors: <strong>Chao Wang</strong>, Yang Liu, Xiaohu Guo, Zichun Zhong, Binh Le, Zhigang Deng
+    authors: <ins><strong>Chao Wang</strong></ins>, Yang Liu, Xiaohu Guo, Zichun Zhong, Binh Le, Zhigang Deng
     conference_short: 
     conference: Computational Visual Media <strong>(CVM)</strong>, 2015
     page: https://jcst.ict.ac.cn/en/article/pdf/preview/10.1007/s11390-015-1544-z.pdf
@@ -93,7 +93,7 @@ main:
     notes: Oral
 
   - title: "Robust shape normalization of 3D articulated volumetric models"
-    authors: <strong>Chao Wang</strong>, Yu-Shen Liu, Min Liu, Jun-Hai Yong, Jean-Claude Paul
+    authors: <ins><strong>Chao Wang</strong></ins>, Yu-Shen Liu, Min Liu, Jun-Hai Yong, Jean-Claude Paul
     conference_short: 
     conference: Computer-Aided Design <strong>(CAD)</strong>, 2012
     page: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=18836e0a6af55b72acfcdae7ca9e67034790400c
